@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/laravel-course-master/.idea/laravel-course-master.iml" filepath="$USER_HOME$/Desktop/laravel-course-master/.idea/laravel-course-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laravel-courses-nuxt.iml" filepath="$PROJECT_DIR$/.idea/laravel-courses-nuxt.iml" />
+    </modules>
+  </component>
+</project>
